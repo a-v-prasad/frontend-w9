@@ -1,0 +1,22 @@
+/* selector {
+  key: value;
+
+} */
+
+body{
+  background-color: rgb(203, 210, 218);
+}
+
+p a {
+  color: blueviolet;
+}
+
+p {
+  font-size: large;
+  color: rgb(5, 58, 65);
+}
+.big {
+font-size: large;
+}
+
+/* order: last one wins & specifity (more specific is priortized), last file wins */
